@@ -12,5 +12,5 @@ M104 S0 ; Turn off extruder
 M140 S0 ; Turn off bed
 M107 ; Turn off cooling fan
 M117 Print Finished
-G1 Z240 ; Move bed to lowest point for print removal
+G1 Z230 ; Move bed to lowest point for print removal
 ; End of custom end GCode
